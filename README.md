@@ -1,0 +1,1 @@
+# smart-clan-mechanism-spider-bot
