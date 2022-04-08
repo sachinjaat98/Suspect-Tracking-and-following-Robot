@@ -1,4 +1,4 @@
-
+// Arduino code
 // defines pins numbers
 const int trigPin = 10;
 const int echoPin = 11;
