@@ -1,3 +1,7 @@
+#Raspberry Pi Code !
+#Code by : Team Kinesis
+# Team members - Sachin and Abhishek 3rd Year
+# NIT HAMIRPUR
 from picamera.array import PiRGBArray
 from picamera import PiCamera
 import cv2
